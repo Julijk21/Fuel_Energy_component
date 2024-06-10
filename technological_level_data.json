@@ -1,0 +1,402 @@
+[
+    {
+        "equipment_id": 1,
+        "equipment_name": "Силовой трансформатор 1",
+        "signal_id": 1,
+        "signal_name": "Сигнал 1",
+        "signal_value": "123",
+        "signal_date_time": "2022-01-01 12:34:56"
+    },
+    {
+        "equipment_id": 2,
+        "equipment_name": "Силовой трансформатор 2",
+        "signal_id": 1,
+        "signal_name": "Сигнал 1",
+        "signal_value": "123",
+        "signal_date_time": "2022-01-01 12:34:56"
+    },
+    {
+        "equipment_id": 3,
+        "equipment_name": "Трансформатор напряжения 1",
+        "signal_id": 1,
+        "signal_name": "Сигнал 1",
+        "signal_value": "123",
+        "signal_date_time": "2022-01-01 12:34:56"
+    },
+    {
+        "equipment_id": 4,
+        "equipment_name": "Трансформатор напряжения 2",
+        "signal_id": 1,
+        "signal_name": "Сигнал 1",
+        "signal_value": "123",
+        "signal_date_time": "2022-01-01 12:34:56"
+    },
+    {
+        "equipment_id": 5,
+        "equipment_name": "Трансформатор тока 1",
+        "signal_id": 1,
+        "signal_name": "Сигнал 1",
+        "signal_value": "123",
+        "signal_date_time": "2022-01-01 12:34:56"
+    },
+    {
+        "equipment_id": 1,
+        "equipment_name": "Силовой трансформатор 1",
+        "signal_id": 2,
+        "signal_name": "Сигнал 2",
+        "signal_value": "45.67",
+        "signal_date_time": "2022-01-02 13:45:23"
+    },
+    {
+        "equipment_id": 2,
+        "equipment_name": "Силовой трансформатор 2",
+        "signal_id": 2,
+        "signal_name": "Сигнал 2",
+        "signal_value": "45.67",
+        "signal_date_time": "2022-01-02 13:45:23"
+    },
+    {
+        "equipment_id": 3,
+        "equipment_name": "Трансформатор напряжения 1",
+        "signal_id": 2,
+        "signal_name": "Сигнал 2",
+        "signal_value": "45.67",
+        "signal_date_time": "2022-01-02 13:45:23"
+    },
+    {
+        "equipment_id": 4,
+        "equipment_name": "Трансформатор напряжения 2",
+        "signal_id": 2,
+        "signal_name": "Сигнал 2",
+        "signal_value": "45.67",
+        "signal_date_time": "2022-01-02 13:45:23"
+    },
+    {
+        "equipment_id": 5,
+        "equipment_name": "Трансформатор тока 1",
+        "signal_id": 2,
+        "signal_name": "Сигнал 2",
+        "signal_value": "45.67",
+        "signal_date_time": "2022-01-02 13:45:23"
+    },
+    {
+        "equipment_id": 1,
+        "equipment_name": "Силовой трансформатор 1",
+        "signal_id": 3,
+        "signal_name": "Сигнал 3",
+        "signal_value": "true",
+        "signal_date_time": "2022-01-03 10:20:35"
+    },
+    {
+        "equipment_id": 2,
+        "equipment_name": "Силовой трансформатор 2",
+        "signal_id": 3,
+        "signal_name": "Сигнал 3",
+        "signal_value": "true",
+        "signal_date_time": "2022-01-03 10:20:35"
+    },
+    {
+        "equipment_id": 3,
+        "equipment_name": "Трансформатор напряжения 1",
+        "signal_id": 3,
+        "signal_name": "Сигнал 3",
+        "signal_value": "true",
+        "signal_date_time": "2022-01-03 10:20:35"
+    },
+    {
+        "equipment_id": 4,
+        "equipment_name": "Трансформатор напряжения 2",
+        "signal_id": 3,
+        "signal_name": "Сигнал 3",
+        "signal_value": "true",
+        "signal_date_time": "2022-01-03 10:20:35"
+    },
+    {
+        "equipment_id": 5,
+        "equipment_name": "Трансформатор тока 1",
+        "signal_id": 3,
+        "signal_name": "Сигнал 3",
+        "signal_value": "true",
+        "signal_date_time": "2022-01-03 10:20:35"
+    },
+    {
+        "equipment_id": 1,
+        "equipment_name": "Силовой трансформатор 1",
+        "signal_id": 4,
+        "signal_name": "Сигнал 4",
+        "signal_value": "789",
+        "signal_date_time": "2022-01-04 15:30:45"
+    },
+    {
+        "equipment_id": 2,
+        "equipment_name": "Силовой трансформатор 2",
+        "signal_id": 4,
+        "signal_name": "Сигнал 4",
+        "signal_value": "789",
+        "signal_date_time": "2022-01-04 15:30:45"
+    },
+    {
+        "equipment_id": 3,
+        "equipment_name": "Трансформатор напряжения 1",
+        "signal_id": 4,
+        "signal_name": "Сигнал 4",
+        "signal_value": "789",
+        "signal_date_time": "2022-01-04 15:30:45"
+    },
+    {
+        "equipment_id": 4,
+        "equipment_name": "Трансформатор напряжения 2",
+        "signal_id": 4,
+        "signal_name": "Сигнал 4",
+        "signal_value": "789",
+        "signal_date_time": "2022-01-04 15:30:45"
+    },
+    {
+        "equipment_id": 5,
+        "equipment_name": "Трансформатор тока 1",
+        "signal_id": 4,
+        "signal_name": "Сигнал 4",
+        "signal_value": "789",
+        "signal_date_time": "2022-01-04 15:30:45"
+    },
+    {
+        "equipment_id": 1,
+        "equipment_name": "Силовой трансформатор 1",
+        "signal_id": 5,
+        "signal_name": "Сигнал 5",
+        "signal_value": "89.12",
+        "signal_date_time": "2022-01-05 08:12:34"
+    },
+    {
+        "equipment_id": 2,
+        "equipment_name": "Силовой трансформатор 2",
+        "signal_id": 5,
+        "signal_name": "Сигнал 5",
+        "signal_value": "89.12",
+        "signal_date_time": "2022-01-05 08:12:34"
+    },
+    {
+        "equipment_id": 3,
+        "equipment_name": "Трансформатор напряжения 1",
+        "signal_id": 5,
+        "signal_name": "Сигнал 5",
+        "signal_value": "89.12",
+        "signal_date_time": "2022-01-05 08:12:34"
+    },
+    {
+        "equipment_id": 4,
+        "equipment_name": "Трансформатор напряжения 2",
+        "signal_id": 5,
+        "signal_name": "Сигнал 5",
+        "signal_value": "89.12",
+        "signal_date_time": "2022-01-05 08:12:34"
+    },
+    {
+        "equipment_id": 5,
+        "equipment_name": "Трансформатор тока 1",
+        "signal_id": 5,
+        "signal_name": "Сигнал 5",
+        "signal_value": "89.12",
+        "signal_date_time": "2022-01-05 08:12:34"
+    },
+    {
+        "equipment_id": 6,
+        "equipment_name": "Трансформатор тока 2",
+        "signal_id": 6,
+        "signal_name": "Сигнал 6",
+        "signal_value": "false",
+        "signal_date_time": "2022-01-06 16:54:23"
+    },
+    {
+        "equipment_id": 7,
+        "equipment_name": "Выключатель 1",
+        "signal_id": 6,
+        "signal_name": "Сигнал 6",
+        "signal_value": "false",
+        "signal_date_time": "2022-01-06 16:54:23"
+    },
+    {
+        "equipment_id": 8,
+        "equipment_name": "Выключатель 2",
+        "signal_id": 6,
+        "signal_name": "Сигнал 6",
+        "signal_value": "false",
+        "signal_date_time": "2022-01-06 16:54:23"
+    },
+    {
+        "equipment_id": 9,
+        "equipment_name": "Ввод 1",
+        "signal_id": 6,
+        "signal_name": "Сигнал 6",
+        "signal_value": "false",
+        "signal_date_time": "2022-01-06 16:54:23"
+    },
+    {
+        "equipment_id": 10,
+        "equipment_name": "Ввод 2",
+        "signal_id": 6,
+        "signal_name": "Сигнал 6",
+        "signal_value": "false",
+        "signal_date_time": "2022-01-06 16:54:23"
+    },
+    {
+        "equipment_id": 6,
+        "equipment_name": "Трансформатор тока 2",
+        "signal_id": 7,
+        "signal_name": "Сигнал 7",
+        "signal_value": "234",
+        "signal_date_time": "2022-01-07 09:34:21"
+    },
+    {
+        "equipment_id": 7,
+        "equipment_name": "Выключатель 1",
+        "signal_id": 7,
+        "signal_name": "Сигнал 7",
+        "signal_value": "234",
+        "signal_date_time": "2022-01-07 09:34:21"
+    },
+    {
+        "equipment_id": 8,
+        "equipment_name": "Выключатель 2",
+        "signal_id": 7,
+        "signal_name": "Сигнал 7",
+        "signal_value": "234",
+        "signal_date_time": "2022-01-07 09:34:21"
+    },
+    {
+        "equipment_id": 9,
+        "equipment_name": "Ввод 1",
+        "signal_id": 7,
+        "signal_name": "Сигнал 7",
+        "signal_value": "234",
+        "signal_date_time": "2022-01-07 09:34:21"
+    },
+    {
+        "equipment_id": 10,
+        "equipment_name": "Ввод 2",
+        "signal_id": 7,
+        "signal_name": "Сигнал 7",
+        "signal_value": "234",
+        "signal_date_time": "2022-01-07 09:34:21"
+    },
+    {
+        "equipment_id": 6,
+        "equipment_name": "Трансформатор тока 2",
+        "signal_id": 8,
+        "signal_name": "Сигнал 8",
+        "signal_value": "12.34",
+        "signal_date_time": "2022-01-08 14:25:16"
+    },
+    {
+        "equipment_id": 7,
+        "equipment_name": "Выключатель 1",
+        "signal_id": 8,
+        "signal_name": "Сигнал 8",
+        "signal_value": "12.34",
+        "signal_date_time": "2022-01-08 14:25:16"
+    },
+    {
+        "equipment_id": 8,
+        "equipment_name": "Выключатель 2",
+        "signal_id": 8,
+        "signal_name": "Сигнал 8",
+        "signal_value": "12.34",
+        "signal_date_time": "2022-01-08 14:25:16"
+    },
+    {
+        "equipment_id": 9,
+        "equipment_name": "Ввод 1",
+        "signal_id": 8,
+        "signal_name": "Сигнал 8",
+        "signal_value": "12.34",
+        "signal_date_time": "2022-01-08 14:25:16"
+    },
+    {
+        "equipment_id": 10,
+        "equipment_name": "Ввод 2",
+        "signal_id": 8,
+        "signal_name": "Сигнал 8",
+        "signal_value": "12.34",
+        "signal_date_time": "2022-01-08 14:25:16"
+    },
+    {
+        "equipment_id": 6,
+        "equipment_name": "Трансформатор тока 2",
+        "signal_id": 9,
+        "signal_name": "Сигнал 9",
+        "signal_value": "true",
+        "signal_date_time": "2022-01-09 11:15:30"
+    },
+    {
+        "equipment_id": 7,
+        "equipment_name": "Выключатель 1",
+        "signal_id": 9,
+        "signal_name": "Сигнал 9",
+        "signal_value": "true",
+        "signal_date_time": "2022-01-09 11:15:30"
+    },
+    {
+        "equipment_id": 8,
+        "equipment_name": "Выключатель 2",
+        "signal_id": 9,
+        "signal_name": "Сигнал 9",
+        "signal_value": "true",
+        "signal_date_time": "2022-01-09 11:15:30"
+    },
+    {
+        "equipment_id": 9,
+        "equipment_name": "Ввод 1",
+        "signal_id": 9,
+        "signal_name": "Сигнал 9",
+        "signal_value": "true",
+        "signal_date_time": "2022-01-09 11:15:30"
+    },
+    {
+        "equipment_id": 10,
+        "equipment_name": "Ввод 2",
+        "signal_id": 9,
+        "signal_name": "Сигнал 9",
+        "signal_value": "true",
+        "signal_date_time": "2022-01-09 11:15:30"
+    },
+    {
+        "equipment_id": 6,
+        "equipment_name": "Трансформатор тока 2",
+        "signal_id": 10,
+        "signal_name": "Сигнал 10",
+        "signal_value": "567",
+        "signal_date_time": "2022-01-10 17:40:55"
+    },
+    {
+        "equipment_id": 7,
+        "equipment_name": "Выключатель 1",
+        "signal_id": 10,
+        "signal_name": "Сигнал 10",
+        "signal_value": "567",
+        "signal_date_time": "2022-01-10 17:40:55"
+    },
+    {
+        "equipment_id": 8,
+        "equipment_name": "Выключатель 2",
+        "signal_id": 10,
+        "signal_name": "Сигнал 10",
+        "signal_value": "567",
+        "signal_date_time": "2022-01-10 17:40:55"
+    },
+    {
+        "equipment_id": 9,
+        "equipment_name": "Ввод 1",
+        "signal_id": 10,
+        "signal_name": "Сигнал 10",
+        "signal_value": "567",
+        "signal_date_time": "2022-01-10 17:40:55"
+    },
+    {
+        "equipment_id": 10,
+        "equipment_name": "Ввод 2",
+        "signal_id": 10,
+        "signal_name": "Сигнал 10",
+        "signal_value": "567",
+        "signal_date_time": "2022-01-10 17:40:55"
+    }
+]

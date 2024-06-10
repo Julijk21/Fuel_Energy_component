@@ -1,0 +1,86 @@
+[
+    {
+        "equipment_id": 1,
+        "equipment_name": "Силовой трансформатор 1",
+        "characteristic_id": 1,
+        "characteristic_name": "Год ввода в эксплуатацию",
+        "characteristic_value": "42"
+    },
+    {
+        "equipment_id": 2,
+        "equipment_name": "Силовой трансформатор 2",
+        "characteristic_id": 1,
+        "characteristic_name": "Год ввода в эксплуатацию",
+        "characteristic_value": "42"
+    },
+    {
+        "equipment_id": 1,
+        "equipment_name": "Силовой трансформатор 1",
+        "characteristic_id": 1,
+        "characteristic_name": "Год ввода в эксплуатацию",
+        "characteristic_value": "67"
+    },
+    {
+        "equipment_id": 2,
+        "equipment_name": "Силовой трансформатор 2",
+        "characteristic_id": 1,
+        "characteristic_name": "Год ввода в эксплуатацию",
+        "characteristic_value": "67"
+    },
+    {
+        "equipment_id": 1,
+        "equipment_name": "Силовой трансформатор 1",
+        "characteristic_id": 2,
+        "characteristic_name": "Количество ремонтов",
+        "characteristic_value": "130"
+    },
+    {
+        "equipment_id": 2,
+        "equipment_name": "Силовой трансформатор 2",
+        "characteristic_id": 2,
+        "characteristic_name": "Количество ремонтов",
+        "characteristic_value": "130"
+    },
+    {
+        "equipment_id": 1,
+        "equipment_name": "Силовой трансформатор 1",
+        "characteristic_id": 2,
+        "characteristic_name": "Количество ремонтов",
+        "characteristic_value": "112"
+    },
+    {
+        "equipment_id": 2,
+        "equipment_name": "Силовой трансформатор 2",
+        "characteristic_id": 2,
+        "characteristic_name": "Количество ремонтов",
+        "characteristic_value": "112"
+    },
+    {
+        "equipment_id": 1,
+        "equipment_name": "Силовой трансформатор 1",
+        "characteristic_id": 3,
+        "characteristic_name": "ИТС (индекс технического состояния)",
+        "characteristic_value": "73"
+    },
+    {
+        "equipment_id": 2,
+        "equipment_name": "Силовой трансформатор 2",
+        "characteristic_id": 3,
+        "characteristic_name": "ИТС (индекс технического состояния)",
+        "characteristic_value": "73"
+    },
+    {
+        "equipment_id": 1,
+        "equipment_name": "Силовой трансформатор 1",
+        "characteristic_id": 3,
+        "characteristic_name": "ИТС (индекс технического состояния)",
+        "characteristic_value": "89"
+    },
+    {
+        "equipment_id": 2,
+        "equipment_name": "Силовой трансформатор 2",
+        "characteristic_id": 3,
+        "characteristic_name": "ИТС (индекс технического состояния)",
+        "characteristic_value": "89"
+    }
+]
